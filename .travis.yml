@@ -4,6 +4,6 @@ jdk:
 dist: trusty
 addons:
  sonarcloud:
-  organization: marie
+  organization: "marie"
 script:
  - mvn clean verify sonar:sonar -Pcoverage -Dsonar.projectKey=marie
