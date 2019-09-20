@@ -1,4 +1,4 @@
-package travis.travis;
+package travis.travisProject;
 
 public class Voiture {
 
